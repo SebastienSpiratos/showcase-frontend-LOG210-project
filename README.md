@@ -1,3 +1,9 @@
+## Launching the app
+
+Begin with using npm update
+
+then npm start should launch the app on the port 3006
+
 ## Logging into the app
 
 Enter the following username:
