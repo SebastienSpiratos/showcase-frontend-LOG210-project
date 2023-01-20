@@ -1,3 +1,15 @@
+## Logging into the app
+
+Enter the following username:
+directeur
+
+This should give you access to the various front end pages. However, since the project has been made some time ago,
+most of the node.js packages used for the backend are deprecated, so it doesn't build at the moment. This leads to
+error messages when trying to do CRUD operations on the pages.
+
+I apologize for the inconvenience.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
