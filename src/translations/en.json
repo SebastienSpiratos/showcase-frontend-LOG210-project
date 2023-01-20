@@ -1,0 +1,98 @@
+{
+  "commun": {
+    "actif": "active",
+    "inactif": "inactive",
+    "oui": "Yes",
+    "non": "No",
+    "ajouter": "Add",
+    "modifier": "Modify",
+    "fermer": "Close",
+    "voir": "View",
+    "recherche": "search",
+    "confirmer": "Confirm",
+    "boutonRetour": "< Back",
+    "boutonAjout": "Add",
+    "boutonAssociation": "Associate",
+    "boutonModification": "Edit",
+    "messageConfirmation": "Complete this operation?",
+    "erreurChampsVides": "Please fill in all the inputs.",
+    "erreurValiditeCourriel": "Please enter a valid email.",
+    "erreurCourrielExistant": "This email is already in use."
+  },
+  "app": {
+    "titre": "LOG210 Project",
+    "boutonLangue": "Changer en FR",
+    "libelleUtilisateur": "User"
+  },
+  "login": {
+    "titre": "Login",
+    "libelle": "Username",
+    "utilisateurDesactive": "This user is deactivated. Please try another."
+  },
+  "profil": {
+    "lienInitial": "Edit profile",
+    "titre": "User profile"
+  },
+  "accueil": {
+    "titre": "Home"
+  },
+  "navigation": {
+    "titre": "Navigation",
+    "lienGererUtilisateurs": "Manage users",
+    "lienGererOrganismes": "Manage organisms",
+    "lienGererOrganismesReferents": "Manage referent organisms",
+    "lienGererReferents": "Manage referent",
+    "lienRechercherReferent": "Search for referent"
+  },
+  "gererUtilisateurs": {
+    "titre": "Manage Users",
+    "libelleNom": "Name",
+    "libelleCourriel": "Email",
+    "libelleRole": "Role",
+    "libelleActif": "Active",
+    "titreModaleAjout": "Add a user",
+    "titreModaleModification": "Edit a user",
+    "boutonFermeture": "Close"
+  },
+  "gererOrganismes": {
+    "titre": "Manage Organisms",
+    "titreOrgRef": "Manage Referent Organisms",
+    "libelleNom": "Name",
+    "libelleAdresse": "Address",
+    "libelleTelephone": "Phone",
+    "libelleCourriel": "Email",
+    "libelleFax": "Fax",
+    "libelleCodePostal": "Postal code",
+    "libelleNoCivique": "Civic number",
+    "libelleRue": "Street",
+    "libelleVille": "City",
+    "libelleProvince": "Province",
+    "libelleTelBureau": "Work phone:",
+    "libelleSiteWeb": "Website",
+    "libelleActif": "Active",
+    "libelleLierOrgRef": "Link to this organism",
+    "titreModaleAjout": "Add an organism",
+    "titreModaleModification": "Edit an organism",
+    "boutonGererReferents": "Manage Referents",
+    "boutonFermeture": "Close"
+  },
+  "gererReferents": {
+    "titre": "Manage Referents",
+    "titreAssociation": "Referent Association",
+    "titreRecherche": "Find Referent",
+    "libelleNom": "Last name",
+    "libellePrenom": "First name",
+    "libelleTitre": "Title",
+    "libelleTelephone": "Phone",
+    "libelleTelBureau": "Phone (office)",
+    "libelleFax": "Fax",
+    "libelleCourriel": "Email",
+    "libelleRapportFax": "Fax report",
+    "libelleRapportCourriel": "Email report",
+    "libelleRapportPapier": "Paper report",
+    "titreModaleAjout": "Add a referent",
+    "titreModaleModification": "Edit a referent",
+    "titreModaleVisualiser": "View a referent",
+    "boutonFermeture": "Close"
+  }
+}

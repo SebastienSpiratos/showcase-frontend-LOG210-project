@@ -1,0 +1,98 @@
+{
+  "commun": {
+    "actif": "actif",
+    "inactif": "inactif",
+    "oui": "Oui",
+    "non": "Non",
+    "ajouter": "Ajouter",
+    "modifier": "Modifier",
+    "fermer": "Fermer",
+    "voir": "Voir",
+    "recherche": "recherche",
+    "confirmer": "Confirmer",
+    "boutonRetour": "< Retour",
+    "boutonAjout": "Ajouter",
+    "boutonAssociation": "Associer",
+    "boutonModification": "Modifier",
+    "messageConfirmation": "Êtes-vous sûr de vouloir compléter cette operation?",
+    "erreurChampsVides": "Veuillez remplir tous les champs.",
+    "erreurValiditeCourriel": "Veuillez saisir un courriel valide.",
+    "erreurCourrielExistant": "Ce courriel est déjà utilisé."
+  },
+  "app": {
+    "titre": "Projet LOG210",
+    "boutonLangue": "Switch to EN",
+    "libelleUtilisateur": "Utilisateur"
+  },
+  "login": {
+    "titre": "Login",
+    "libelle": "Nom d'utilisateur",
+    "utilisateurDesactive": "Cet utilisateur est désactivé. Essayez-en un autre."
+  },
+  "profil": {
+    "lienInitial": "Modifier profil",
+    "titre": "Profil de l'utilisateur"
+  },
+  "accueil": {
+    "titre": "Accueil"
+  },
+  "navigation": {
+    "titre": "Navigation",
+    "lienGererUtilisateurs": "Gérer utilisateurs",
+    "lienGererOrganismes": "Gérer organismes",
+    "lienGererOrganismesReferents": "Gérer organismes référents",
+    "lienGererReferents": "Gérer référents",
+    "lienRechercherReferent": "Rechercher un référent"
+  },
+  "gererUtilisateurs": {
+    "titre": "Gérer Utilisateurs",
+    "libelleNom": "Nom",
+    "libelleCourriel": "Courriel",
+    "libelleRole": "Rôle",
+    "libelleActif": "Actif",
+    "titreModaleAjout": "Ajout d'un utilisateur",
+    "titreModaleModification": "Modification d'un utilisateur",
+    "boutonFermeture": "Fermer"
+  },
+  "gererOrganismes": {
+    "titre": "Gérer Organismes",
+    "titreOrgRef": "Gérer Organismes Référents",
+    "libelleNom": "Nom",
+    "libelleAdresse": "Adresse",
+    "libelleTelephone": "Téléphone",
+    "libelleCourriel": "Courriel",
+    "libelleFax": "Fax",
+    "libelleCodePostal": "Code postal",
+    "libelleNoCivique": "No. Civique",
+    "libelleRue": "Rue",
+    "libelleVille": "Ville",
+    "libelleProvince": "Province",
+    "libelleTelBureau": "Tel. Bureau:",
+    "libelleSiteWeb": "Site web",
+    "libelleActif": "Actif",
+    "libelleLierOrgRef": "Lier à cet organisme",
+    "titreModaleAjout": "Ajout d'un organisme",
+    "titreModaleModification": "Modification d'un organisme",
+    "titreModaleVisualiser": "Visualiser un référent",
+    "boutonGererReferents": "Gérer référents",
+    "boutonFermeture": "Fermer"
+  },
+  "gererReferents": {
+    "titre": "Gérer Référents",
+    "titreAssociation": "Association Référent",
+    "titreRecherche": "Recherche d'un référent",
+    "libelleNom": "Nom",
+    "libellePrenom": "Prénom",
+    "libelleTitre": "Titre",
+    "libelleTelephone": "Téléphone",
+    "libelleTelBureau": "Téléphone (bureau)",
+    "libelleFax": "Fax",
+    "libelleCourriel": "Courriel",
+    "libelleRapportFax": "Rapport fax",
+    "libelleRapportCourriel": "Rapport courriel",
+    "libelleRapportPapier": "Rapport papier",
+    "titreModaleAjout": "Ajout d'un organisme",
+    "titreModaleModification": "Modification d'un organisme",
+    "boutonFermeture": "Fermer"
+  }
+}
